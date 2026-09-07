@@ -29,7 +29,6 @@ docker/data/
 # IDE files
 .idea/
 .code/
-.vscode/
 .claude/
 .codex/
 docs/
@@ -53,3 +52,5 @@ audit
 test.yml
 dist/
 files/*.tgz
+config.bat
+node_modules
